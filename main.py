@@ -1,4 +1,5 @@
-print('hello world')
-print('hello python')
-print('hello belhard')
-print('hello belhard')
+def foo():
+    print('hello')
+
+
+foo()
